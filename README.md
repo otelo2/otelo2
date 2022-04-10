@@ -1,4 +1,8 @@
-🤠
+Computer Systems Engineering student
+
+Interested in cybersecurity and any other It related fields
+
+Currently looking for remote internships or entry level positions
 
 <!--
 **otelo2/otelo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
