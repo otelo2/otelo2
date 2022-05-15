@@ -2,7 +2,7 @@
 
 ### Interested in cybersecurity and any other IT related fields
 
-### Currently looking for remote entry level positions
+### Currently looking for opportunities in Canada! 🇨🇦
 
 <!--
 **otelo2/otelo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
