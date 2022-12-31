@@ -1,8 +1,8 @@
-# Computer Systems Engineering student
+# Computer Systems Engineer
 
 ### Interested in cybersecurity and any other IT related fields
 
-### Currently looking for opportunities in Canada! 🇨🇦
+### Currently QA Automation engineer
 
 <!--
 **otelo2/otelo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
